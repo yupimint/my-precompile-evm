@@ -3,8 +3,8 @@ module github.com/ava-labs/precompile-evm
 go 1.19
 
 require (
-	github.com/ava-labs/avalanchego v1.10.9
-	github.com/ava-labs/subnet-evm v0.5.5
+	github.com/ava-labs/avalanchego v1.10.10
+	github.com/ava-labs/subnet-evm v0.5.6
 	github.com/onsi/ginkgo/v2 v2.8.1
 	github.com/onsi/gomega v1.26.0
 	github.com/stretchr/testify v1.8.3
